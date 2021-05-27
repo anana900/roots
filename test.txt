@@ -3,4 +3,4 @@ dwa
 trzy
 cztery
 piec
-
+six
